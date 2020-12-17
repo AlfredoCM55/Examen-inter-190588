@@ -14,7 +14,7 @@ app.get('/', function (req, res) {
 
 app.use(require('./Routes/usuario'));
 app.use(require('./Routes/departamento'));
-app.use(require('./Routes/empleado'));  
+app.use(require('./Routes/empleado'));
 
 mongoose.connect('mongodb://localhost:27017/examen', {
     

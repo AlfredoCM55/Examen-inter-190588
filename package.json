@@ -14,5 +14,14 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.8",
     "underscore": "^1.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlfredoCM55/Examen-inter-190588.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlfredoCM55/Examen-inter-190588/issues"
+  },
+  "homepage": "https://github.com/AlfredoCM55/Examen-inter-190588#readme"
 }
