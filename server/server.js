@@ -1,4 +1,4 @@
-require('./config/config');
+require('./config/config');                                 //Jose Alfredo Carrazco Macias 190588 TIDSM//
 const express = require('express');
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
