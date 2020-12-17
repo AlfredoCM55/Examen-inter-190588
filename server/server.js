@@ -16,7 +16,7 @@ app.use(require('./Routes/usuario'));
 app.use(require('./Routes/departamento'));
 app.use(require('./Routes/empleado'));
 
-mongoose.connect('mongodb://localhost:27017/examen', {
+mongoose.connect('mongodb://localhost:27017/Intercuatri', {
     
   useNewUrlParser: true,
   useUnifiedTopology: true,
